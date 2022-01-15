@@ -13,7 +13,7 @@ Este projeto foi feito com base no simulador de votação do Tribunal Superior E
 O simulador foi feito com apenas 2 grupos de candidatos para cada cargo (Vereador e Prefeito) \
 Os números de cada são: \
 Vereadores: 30300 - Cinthia Rangel, 40300 - Manoel Carlos \
-Prefeitos: 55 - José Carlos (Vice Janaina Silva) - 98 - Maria Abreu (Vice Cláudio Santos) \
+Prefeitos: 55 - José Carlos (Vice Janaina Silva), 98 - Maria Abreu (Vice Cláudio Santos) \
 Caso você digite um número diferente de algum desses, o voto é considerado núlo.
 
 # Tecnologias Utilizadas
